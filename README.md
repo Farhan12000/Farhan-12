@@ -1,4 +1,4 @@
 # Farhan-12
 This is my first Git Repository 
 <br>
-Author - Farhan Khan 
+Author - Farhan Khan (BCA)
